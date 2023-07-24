@@ -1,0 +1,239 @@
+.bodybg {
+			background-image: url(//beon.fun/blogs/78/9/978/design/pagebg.png?1690212809);
+		background-attachment: fixed
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: no-repeat
+					, repeat
+			;
+			background-size: cover
+					, auto
+			;
+		}
+
+	.py-4 a, .crumbs a{
+		color:  !important;
+	}
+	.py-4 a:hover, .crumbs a:hover {
+		color:  !important;
+	}
+
+.crumbs {
+		background-color: #063695;
+	background-color: rgba(6,54,149, 1);
+				color: #ffffff;	
+				background-image: ;
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			
+		border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+.post-content {
+		color: #ffffff;
+			background-image: linear-gradient(#072b78, #001249e1);
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			background-size: auto
+					, auto
+			;
+		
+			border-top-color: ;
+			border-top-width: 0px;
+			border-top-style: solid;
+				border-right-color: ;
+			border-right-width: 0px;
+			border-right-style: solid;
+				border-bottom-color: ;
+			border-bottom-width: 0px;
+			border-bottom-style: solid;
+				border-left-color: ;
+			border-left-width: 0px;
+			border-left-style: solid;
+				border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+.post-title {
+	color: #ffffff;
+}
+.comment-content {
+		background-color: #072b78;
+	background-color: rgba(7,43,120, 1);
+		color: #ffffff;
+			background-image: ;
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			background-size: auto
+					, auto
+			;
+			
+			border-top-color: ;
+			border-top-width: 0px;
+			border-top-style: solid;
+				border-right-color: ;
+			border-right-width: 0px;
+			border-right-style: solid;
+				border-bottom-color: ;
+			border-bottom-width: 0px;
+			border-bottom-style: solid;
+				border-left-color: ;
+			border-left-width: 0px;
+			border-left-style: solid;
+				border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+.left-menu > div {
+		background-color: #072b78;
+	background-color: rgba(7,43,120, 1);
+			color: #ffffff;
+				background-image: ;
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			background-size: auto
+					, auto
+			;
+		
+			border-top-color: ;
+			border-top-width: 0px;
+			border-top-style: dashed;
+				border-right-color: ;
+			border-right-width: 0px;
+			border-right-style: dashed;
+				border-bottom-color: ;
+			border-bottom-width: 0px;
+			border-bottom-style: dashed;
+				border-left-color: ;
+			border-left-width: 0px;
+			border-left-style: dashed;
+				border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+.left-menu > div > h3 {
+		background-color: #063695 !important;
+	background-color: rgba(6,54,149, 1) !important;
+			color: #ffffff !important;	
+				background-image: ;
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			background-size: auto
+					, auto
+			;
+		
+		border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+.textareabg {
+			background-color: #b08787;
+		background-color: rgba(176,135,135, 0);
+				color: #ffffff;	
+	}
+.datebg {
+		background-color: #063695 !important;
+	background-color: rgba(6,54,149, 1) !important;
+			color: #ffffff;	
+				background-image: ;
+					background-attachment: scroll
+							, scroll
+						;
+							background-position: top left
+							, top left
+						;
+							background-repeat: repeat
+							, repeat
+						;
+							background-size: auto
+							, auto
+						;
+					border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+	.blog__gifts {
+		display: none;
+	}
+	.blog__iread {
+		display: none;
+	}
+	.blog__last-comments {
+		display: none;
+	}
+
+nav.navbar {
+		background-color: #000732;
+	background-color: rgba(0,7,50, 1);
+			background-image: ;
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			background-size: auto
+					, auto
+			;
+					color: #ffffff !important;
+			border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+
+	nav.navbar a {
+		color: #ffffff !important;
+	}
+
+	nav.navbar a:hover {
+		color: #ffffff !important;
+	}
